@@ -2,7 +2,7 @@ header {
   background-color: fffec5;
   font-family: 'Serif';
   text-align: left;
-  width: 100%,
+  display: flex;
 }
 
 nav {
