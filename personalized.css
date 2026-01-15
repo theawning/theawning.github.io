@@ -13,7 +13,6 @@ nav {
   font-size: x-large;
 }
 
-
 body {
   background-color: fffec5;
   font-family: 'Serif';
@@ -60,3 +59,27 @@ td, th {
   padding: 3px;
   font-size: x-large;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: fffec5;
+  text-align: center;
+  padding: 1ch, 1ch;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: gray;
+} 
