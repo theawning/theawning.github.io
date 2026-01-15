@@ -57,7 +57,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333333;
+  background-color: black;
 }
 
 ul li {
@@ -70,4 +70,8 @@ ul li a {
   text-align: center;
   padding: 0.5ch 1ch;
   text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: gray;
 }
