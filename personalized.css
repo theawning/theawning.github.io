@@ -11,6 +11,7 @@ nav {
   text-align: center;
   width: 30%
   font-size: x-large;
+  float: right
 }
 
 body {
@@ -59,10 +60,10 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  border: 1px solid black;
 }
 
-li a {
+li {
+  border: 2px solid black;
   display: block;
   color: black;
   text-align: right;
