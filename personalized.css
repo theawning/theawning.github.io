@@ -9,7 +9,6 @@ nav {
   font-family: 'Serif';
   text-align: center;
   font-size: x-large;
-  display: inline-block;
   text-decoration: none;
 }
 
@@ -52,4 +51,8 @@ td, th {
   border: 2px solid black;
   padding: 3px;
   font-size: x-large;
+}
+
+a {
+  text-decoration: none;
 }
