@@ -9,6 +9,7 @@ nav {
   font-family: 'Serif';
   text-align: center;
   font-size: x-large;
+  display: inline-block;
 }
 
 body {
@@ -50,8 +51,4 @@ td, th {
   border: 2px solid black;
   padding: 3px;
   font-size: x-large;
-}
-
-nav {
-  display: inline-block;
 }
