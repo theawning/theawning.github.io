@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 header {
   background-color: fffec5;
   font-family: 'Serif';
@@ -17,6 +22,7 @@ body {
   text-align: left;
   max-width: clamp(0ch, 90vw, 75ch);
   font-size: x-large;
+  margin: 2ch;
 }
 
 footer {
@@ -52,7 +58,8 @@ td, th {
   font-size: x-large;
 }
 
-ul {
+nav ul {
+  display: inline-block;
   list-style-type: none;
   margin: 0;
   padding: 0;
