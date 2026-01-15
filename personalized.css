@@ -51,8 +51,10 @@ a {
 }
 
 blockquote {
-  background: #f9f9f9;
-  border-left: 3px solid #ccc;
+  background: #6e6638;
+  border-left: 3px solid black;
+  margin: 2ch 0;
+  padding: 2ch 2ch;
 }
 
 blockquote p {
