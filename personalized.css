@@ -56,13 +56,18 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  overflow: hidden;
+  background-color: #333333;
 }
 
-li a {
-  border: 2px solid black;
+ul li {
+  float: center;
+}
+
+ul li a {
   display: block;
-  color: black;
-  text-align: right;
-  padding: 0.5ch, 1ch;
+  color: fffec5;
+  text-align: center;
+  padding: 0.5ch 1ch;
   text-decoration: none;
 }
