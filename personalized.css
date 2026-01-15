@@ -11,7 +11,7 @@ body {
   background-color: fffec5;
   font-family: 'Serif';
   text-align: left;
-  max-width: clamp(0ch, 90vw, 75ch);
+  max-width: clamp(0ch, 100vw, 75ch);
   font-size: x-large;
 }
 
