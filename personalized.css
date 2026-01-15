@@ -62,14 +62,14 @@ td, th {
 
 ul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin: 1ch;
+  padding: 1ch;
   overflow: hidden;
   background-color: black;
 }
 
 ul li {
-  float: left;
+  float: center;
 }
 
 ul li a {
