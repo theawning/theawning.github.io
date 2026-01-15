@@ -1,8 +1,3 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-
 header {
   background-color: fffec5;
   font-family: 'Serif';
@@ -22,7 +17,6 @@ body {
   text-align: left;
   max-width: clamp(0ch, 90vw, 75ch);
   font-size: x-large;
-  margin: 2ch;
 }
 
 footer {
@@ -58,27 +52,6 @@ td, th {
   font-size: x-large;
 }
 
-nav ul {
+nav {
   display: inline-block;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: black;
-}
-
-ul li {
-  float: center;
-}
-
-ul li a {
-  display: block;
-  color: fffec5;
-  text-align: center;
-  padding: 0.5ch 1ch;
-  text-decoration: none;
-}
-
-ul li a:hover {
-  background-color: gray;
 }
