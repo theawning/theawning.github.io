@@ -52,8 +52,8 @@ a {
 
 blockquote {
   border-left: 0.3ch solid black;
-  margin: 0 3ch;
-  padding: 3ch 3ch;
+  margin: 0 0;
+  padding: 3ch 0;
 }
 
 blockquote p {
