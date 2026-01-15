@@ -1,8 +1,29 @@
-html {
+header {
   background-color: fffec5;
   font-family: 'Serif';
   text-align: left;
   max-width: clamp(0ch, 90vw, 80ch);
+}
+
+body {
+  background-color: fffec5;
+  font-family: 'Serif';
+  text-align: left;
+  max-width: clamp(0ch, 90vw, 80ch);
+}
+
+footer {
+  background-color: fffec5;
+  font-family: 'Serif';
+  max-width: clamp(0ch, 90vw, 80ch);
+  font-style: italic;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  max-width: clamp(0ch, 90vw, 80ch);
+  height: auto;
 }
 
 h2 {
@@ -24,14 +45,4 @@ table {
 td, th {
   border: 1px solid black;
   padding: 3px;
-}
-
-footer {
-  font-style: italic;
-  text-align: center;
-}
-
-img {
-  width: 100%;
-  height: auto;
 }
