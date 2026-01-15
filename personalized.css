@@ -2,7 +2,7 @@ header {
   background-color: fffec5;
   font-family: 'Serif';
   text-align: left;
-  max-width: clamp(0ch, 90vw, 80ch);
+  max-width: clamp(0ch, 90vw, 70ch);
 }
 
 body {
