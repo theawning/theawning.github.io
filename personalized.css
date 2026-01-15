@@ -52,7 +52,7 @@ a {
 
 blockquote {
   border-left: 0.3ch solid black;
-  /* margin: 3ch 0; */
+  margin: 0 3ch;
   padding: 3ch 3ch;
 }
 
