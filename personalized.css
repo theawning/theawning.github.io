@@ -4,7 +4,6 @@ header {
   text-align: left;
   display: flex;
   position: fixed;
-  width: 100%;
   justify-content: flex-end;
 }
 
@@ -12,7 +11,7 @@ nav {
   background-color: fffec5;
   font-family: 'Serif';
   text-align: center;
-  width: 30%
+  width: 10ch;
   font-size: x-large;
 }
 
@@ -28,7 +27,7 @@ footer {
   background-color: fffec5;
   font-family: 'Serif';
   text-align: center;
-  max-width: clamp(0ch, 90vw, 75ch);
+  position: fixed;
   font-style: italic;
   font-size: x-large;
 }
