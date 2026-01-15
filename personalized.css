@@ -2,7 +2,7 @@ header {
   background-color: fffec5;
   font-family: 'Serif';
   text-align: left;
-  width: 70%,
+  width: 100%,
 }
 
 nav {
@@ -59,6 +59,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  border: 1px solid black;
 }
 
 li a {
