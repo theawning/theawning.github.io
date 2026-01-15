@@ -10,9 +10,10 @@ nav {
 body {
   background-color: fffec5;
   font-family: 'Serif';
-  text-align: center;
+  text-align: left;
   max-width: clamp(40ch, 100vw, 75ch);
   font-size: x-large;
+  margin: auto;
 }
 
 footer {
