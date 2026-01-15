@@ -52,3 +52,7 @@ td, th {
   padding: 3px;
   font-size: x-large;
 }
+
+ul li a {
+  text-decoration: none;
+}
