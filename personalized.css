@@ -6,6 +6,15 @@ header {
   font-size: xx-large;
 }
 
+nav {
+  background-color: fffec5;
+  font-family: 'Serif';
+  text-align: center;
+  max-width: clamp(0ch, 90vw, 75ch);
+  font-size: x-large;
+}
+
+
 body {
   background-color: fffec5;
   font-family: 'Serif';
