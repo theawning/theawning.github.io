@@ -42,7 +42,7 @@ h2 {
   font-size: larger;
 }
 
-h2 {
+h3 {
   font-weight: bold;
   font-size: xx-large;
 }
@@ -62,24 +62,15 @@ td, th {
 
 ul {
   list-style-type: none;
-  margin: 1ch;
-  padding: 1ch;
-  overflow: hidden;
-  background-color: black;
+  margin: 0;
+  padding: 0;
+  width: 30%;
 }
 
-ul li {
-  float: center;
-}
-
-ul li a {
+li a {
   display: block;
-  color: fffec5;
-  text-align: center;
-  padding: 1ch, 1ch;
+  color: black;
+  text-align: right;
+  padding: 0.5ch, 1ch;
   text-decoration: none;
 }
-
-ul li a:hover {
-  background-color: gray;
-} 
