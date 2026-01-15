@@ -9,7 +9,7 @@ nav {
   background-color: fffec5;
   font-family: 'Serif';
   text-align: center;
-  max-width: clamp(0ch, 90vw, 75ch);
+  width: 30%
   font-size: x-large;
 }
 
@@ -59,7 +59,6 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 30%;
 }
 
 li a {
