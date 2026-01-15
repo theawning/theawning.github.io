@@ -2,8 +2,6 @@ html {
   font-family: 'Serif';
   text-align: left;
   max-width: clamp(0ch, 90vw, 80ch);
-  margin-left: auto;
-  margin-right: auto;
 }
 
 h2 {
