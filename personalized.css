@@ -1,12 +1,8 @@
 header {
-  background-color: fffec5;
-  font-family: 'Serif';
   text-align: center;
 }
 
 nav {
-  background-color: fffec5;
-  font-family: 'Serif';
   text-align: center;
   font-size: x-large;
 }
@@ -20,8 +16,6 @@ body {
 }
 
 footer {
-  background-color: fffec5;
-  font-family: 'Serif';
   text-align: center;
   font-style: italic;
   font-size: x-large;
@@ -29,7 +23,6 @@ footer {
 
 img {
   width: 100%;
-  max-width: clamp(0ch, 90vw, 80ch);
   height: auto;
 }
 
