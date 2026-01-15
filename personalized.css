@@ -1,8 +1,8 @@
 header {
   background-color: fffec5;
   font-family: 'Serif';
-  text-align: center;
-  max-width: clamp(0ch, 90vw, 75ch);
+  text-align: left;
+  width: 70%,
 }
 
 nav {
