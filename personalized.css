@@ -1,16 +1,13 @@
 header {
   background-color: fffec5;
   font-family: 'Serif';
-  text-align: left;
-  display: flex;
-  justify-content: flex-end;
+  text-align: center;
 }
 
 nav {
   background-color: fffec5;
   font-family: 'Serif';
   text-align: center;
-  width: 10ch;
   font-size: x-large;
 }
 
