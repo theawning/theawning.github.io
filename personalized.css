@@ -3,7 +3,6 @@ header {
   font-family: 'Serif';
   text-align: center;
   max-width: clamp(0ch, 90vw, 75ch);
-  font-size: xx-large;
 }
 
 nav {
@@ -44,14 +43,20 @@ h2 {
   font-size: larger;
 }
 
+h2 {
+  font-weight: bold;
+  font-size: xx-large;
+}
+
 table {
-  border: 1px solid black;
   border-collapse: collapse;
   table-layout: fixed;
   width: 100%;
+  font-size: x-large;
 }
 
 td, th {
   border: 1px solid black;
   padding: 3px;
+  font-size: x-large;
 }
