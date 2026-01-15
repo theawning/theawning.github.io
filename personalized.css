@@ -3,7 +3,6 @@ header {
   font-family: 'Serif';
   text-align: left;
   display: flex;
-  position: fixed;
   justify-content: flex-end;
 }
 
@@ -27,7 +26,6 @@ footer {
   background-color: fffec5;
   font-family: 'Serif';
   text-align: center;
-  position: fixed;
   font-style: italic;
   font-size: x-large;
 }
