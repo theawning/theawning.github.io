@@ -1,12 +1,16 @@
 html {
   font-family: 'Serif';
   text-align: left;
-  max-width: clamp(0ch, 90vw, 75ch);
+  max-width: clamp(0ch, 90vw, 80ch);
 }
 
 h2 {
   font-style: italic;
   font-weight: normal;
+}
+
+h3 {
+  font-size: xx-large;
 }
 
 table {
@@ -19,4 +23,8 @@ table {
 td, th {
   border: 1px solid black;
   padding: 3px;
+}
+
+footer {
+  font-style: italic;
 }
