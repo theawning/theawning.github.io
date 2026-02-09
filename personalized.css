@@ -45,7 +45,7 @@ td, th {
   font-size: x-large;
 }
 
-table.borderless, td.borderless, th.borderless {
+table.borderless, tbody.borderless, td.borderless, th.borderless {
   border: 2px hidden;
 }
 
